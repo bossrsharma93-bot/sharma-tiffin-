@@ -26,3 +26,4 @@
 - 10+ km: ₹50
 
 Edit `../sharma-config.json` to change fees or pricing.
+Deployed on Render 🚀
